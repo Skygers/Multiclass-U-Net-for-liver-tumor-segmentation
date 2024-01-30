@@ -16,6 +16,9 @@ Welcome to our repository dedicated to liver tumor detection in CT-scan images t
    - **Result Window Leveling and Window Blending Method**
 
      ![Multiclass Semantic Segmentation](https://github.com/Skygers/Multiclass-U-Net-for-liver-tumor-segmentation/blob/c89a803eb27ac44022f4e16fc42bd6af42135348/Gambar/volume-1_slice_61.jpg)
+
+     This method reference
+     [window blending](https://sv-journal.org/2019-5/06/)
 4. **One-Hot Semantic Segmentation (OHESS):**
    - Our repository employs one-hot encoding for semantic segmentation. This technique enables the model to assign each pixel to a specific class, facilitating precise identification of liver tumors and surrounding tissues.
    - **Result OHESS Liver Class**
