@@ -24,7 +24,7 @@ Welcome to our repository dedicated to liver tumor detection in CT-scan images t
    - **Result OHESS Liver Class**
 
      ![Multiclass Semantic Segmentation](https://github.com/Skygers/Multiclass-U-Net-for-liver-tumor-segmentation/blob/c89a803eb27ac44022f4e16fc42bd6af42135348/Gambar/one%20hot%20liver.jpg)
-   - **Resulut OHESS Tumor Class**
+   - **Result OHESS Tumor Class**
 
      ![Multiclass Semantic Segmentation](https://github.com/Skygers/Multiclass-U-Net-for-liver-tumor-segmentation/blob/c89a803eb27ac44022f4e16fc42bd6af42135348/Gambar/one%20hot%20mask.jpg)
 ### How to Use:
